@@ -1,1 +1,35 @@
+Basic NOC Incident Detection and Troubleshooting
+
+Project Overview
+This project simulates a real-world Network Operations Center (NOC) Level-1 incident. The objective is to understand how NOC teams detect issues, perform basic troubleshooting, and document incidents in a structured manner.
+
+Scenario
+Users reported that a service or application was not working properly. The task was to identify the issue type, perform troubleshooting steps, and document the findings.
+
+Tools Used
+- Windows Operating System
+- Command Prompt (ping, nslookup)
+- Task Manager
+- Windows Services Manager (services.msc)
+
+Troubleshooting Process
+1. Verified network connectivity using ping
+2. Checked DNS resolution using nslookup
+3. Monitored system resources (CPU, memory, disk)
+4. Checked service status using Windows Services Manager
+5. Identified service-related issue and verified resolution steps
+
+Incident Documentation
+Issue: Service not accessible  
+Detection: Simulated alert / user report  
+Network Check: Connectivity and DNS verified  
+System Check: CPU, memory, disk normal  
+Root Cause: Service unavailability  
+Status: Issue identified and documented  
+
+Learning Outcome
+- Understood monitoring vs troubleshooting
+- Learned basic NOC incident handling workflow
+- Practiced network, system, and service checks
+- Gained experience in incident documentation
 
